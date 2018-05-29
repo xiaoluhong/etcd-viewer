@@ -1,7 +1,5 @@
 FROM jetty:9.2.12-jre7
 
-MAINTAINER Nikos Fountas "nikfoundas@gmail.com"
-
 # select the release to download
 ENV VIEWER_VERSION latest
 #ENV VIEWER_VERSION tags/v1.1
